@@ -1,1 +1,2 @@
 Valtteri Lehto
+Stas Simanovskiy
