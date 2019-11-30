@@ -8,4 +8,3 @@ Stas Simanovskiy
 Henna Mäkinen
 Toni Seessalo
 Lauri Tuumi
-
